@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+    <AddIn Type="Command">
+        <Text>Command ClassLibrary1</Text>
+        <Description>Some description for ClassLibrary1</Description>
+        <Assembly>ClassLibrary1.dll</Assembly>
+        <FullClassName>ClassLibrary.Command</FullClassName>
+        <ClientId>18702a9a-e4d1-43d8-837a-463ba030f908</ClientId>
+        <VendorId>atBIM</VendorId>
+        <VendorDescription>atBIM, http://www.atbim.es</VendorDescription>
+    </AddIn>
+    <AddIn Type="Application">
+        <Name>Application ClassLibrary1</Name>
+        <Assembly>ClassLibrary1.dll</Assembly>
+        <FullClassName>ClassLibrary1.App</FullClassName>
+        <ClientId>f0e3a390-d2ea-4e37-aba6-d3d32a3892a5</ClientId>
+        <VendorId>atBIM</VendorId>
+        <VendorDescription>atBIM, http://www.atbim.es</VendorDescription>
+    </AddIn>
+</RevitAddIns>

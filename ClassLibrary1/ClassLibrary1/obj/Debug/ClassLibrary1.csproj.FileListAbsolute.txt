@@ -1,0 +1,7 @@
+C:\Users\AndreaGracia\source\repos\atbim\atb-training\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\AndreaGracia\source\repos\atbim\atb-training\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\AndreaGracia\source\repos\atbim\atb-training\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\AndreaGracia\source\repos\atbim\atb-training\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.g.resources
+C:\Users\AndreaGracia\source\repos\atbim\atb-training\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\AndreaGracia\source\repos\atbim\atb-training\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\AndreaGracia\source\repos\atbim\atb-training\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
